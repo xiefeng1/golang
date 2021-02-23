@@ -1,0 +1,10 @@
+<students version="1">
+	<student>
+  		 <studentName>AAAAAAA</studentName>
+  		 <studentId>123456</studentId>
+	</student>
+	<student>
+		 <studentName>BBBBBBB</studentName>
+  		 <studentId>9876554</studentId>
+	</student>
+</students>
